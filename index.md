@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Web Page
 
 You can use the [editor on GitHub](https://github.com/Aisyahsful21/Life-During-MCO-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
